@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RCP Test">
+  <test name="RCP">
+    <classes>
+      <class name="com.rcp.JsonValidationTest" />      
+    </classes>
+  </test>
+</suite>
